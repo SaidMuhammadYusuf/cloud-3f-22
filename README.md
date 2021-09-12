@@ -12,9 +12,9 @@
 
 |  |  |
 |--|--|
-| NIM | **contoh 123** |
-| Nama Lengkap | **contoh nama abc** |
-| Kelas | TI-3x |
+| NIM | 1941720208 |
+| Nama Lengkap | Said Muhammad Yusuf Hanif Bakshin |
+| Kelas | TI-3F |
 
 
 ## Struktur Folder
